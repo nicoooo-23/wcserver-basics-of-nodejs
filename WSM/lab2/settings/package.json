@@ -1,0 +1,4 @@
+{
+    "name": "db-settings",
+    "main": "./databaseConfig.js"
+}
